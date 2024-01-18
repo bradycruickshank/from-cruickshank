@@ -15,3 +15,5 @@ This is my favorite restauraunt because it's the **best barbecue restauraunt** a
 * East Hills Mall
 * Hobby Lobby
 * Fastgas
+
+[MyMedia](MyMedia.md)
