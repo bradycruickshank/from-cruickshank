@@ -16,5 +16,11 @@ This table contains a few songs that I believe everyone should listen to. It may
 |It's Not Up To You|While this song is somewhat strange, the production is great and the vocal performance is very powerful|Bjork|
 |Like A Rolling Stone|This is another 60s rock classic. It's something everyone should listen to at least once.|Bob Dylan|
 
+***
 
+# Favorite Quotes
+
+> Be the change that you want to see in the world. -*Mahatma Gandhi*
+
+> In the middle of every difficulty lies opportunity. -*Albert Einstein*
 
