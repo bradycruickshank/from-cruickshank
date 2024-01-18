@@ -24,3 +24,21 @@ This table contains a few songs that I believe everyone should listen to. It may
 
 > In the middle of every difficulty lies opportunity. -*Albert Einstein*
 
+***
+
+# Code Snippet
+
+This code snipped delays running the provided function until a certain amount of time has passed.
+
+```
+const debounce = (fn: Function, ms = 300) => {
+	let timeoutId: ReturnType;
+  return function (this: any, ...args: any[]) {
+	  clearTimeout(timeoutId);
+    timeoutId = setTimeout(() => fn.apply(this, args), ms);
+  };
+};
+```
+
+<https://code.pieces.app/collections/typescript>
+
